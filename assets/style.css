@@ -143,3 +143,33 @@
   font-weight: 600;
   margin-top: 20px;
 }
+/* Deal Section start */
+.deal-background {
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 100px;
+  padding: 60px 0;
+}
+.deal {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 10%;
+}
+
+.deal-info {
+}
+.deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 15px 0;
+}
+/* .text-center {
+  margin-left: 35%;
+} */
+.singup {
+  text-align: center;
+}
