@@ -46,10 +46,32 @@
   cursor: pointer;
 }
 .banner-image {
-  width: 550px;
+  width: 580px;
+  margin-bottom: -4px;
+}
+/* Our featured category section  */
+.categories {
+  text-align: center;
+  margin-top: 50px;
+}
+.category {
+  padding: 30px 60px;
+
+  color: #e55473;
+  font-weight: 500;
+  border-radius: 50px;
+  background: #e5547300;
+  font-size: 23px;
+  border: 2px solid #e55473;
+  margin-right: 10px;
+}
+.category:hover {
+  background-color: #e55473;
+  color: white;
+  cursor: pointer;
 }
 
-/* Our featured section start */
+/* Our featured flower section start */
 
 /* common section title and description  */
 .section-title {
@@ -75,10 +97,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
-  gap: 30px;
-  max-width: 1180px;
-  margin: 0 auto;
+  gap: 10px;
   margin-top: 60px;
 }
 
