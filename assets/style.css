@@ -7,6 +7,7 @@
 }
 
 /* Heading start (Banner) */
+
 .banner {
   display: flex;
   justify-content: center;
@@ -24,11 +25,14 @@
   font-weight: 800;
   /* padding: 0px 0px 2px 200px; */
 }
+.span {
+  color: #e55473;
+}
 .banner-description {
   color: rgba(39, 39, 39, 0.6);
   font-size: 16px;
   font-weight: 400;
-  margin: 15px 0px;
+  margin: 25px 0px;
 }
 /* button primary */
 .btn-primary {
@@ -102,8 +106,8 @@
 }
 
 .img-flower1 {
-  width: 210px;
-  height: 328px;
+  width: 255px;
+  height: 358px;
   padding: 50px;
   padding-bottom: 0;
   border-radius: 300px 300px 0px 0px;
@@ -111,8 +115,8 @@
 }
 
 .img-flower2 {
-  width: 210px;
-  height: 328px;
+  width: 255px;
+  height: 358px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
   padding: 50px;
@@ -120,8 +124,8 @@
 }
 
 .img-flower3 {
-  width: 210px;
-  height: 328px;
+  width: 255px;
+  height: 358px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
   padding: 50px;
