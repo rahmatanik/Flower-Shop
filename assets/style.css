@@ -184,12 +184,13 @@
 }
 .deal {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  padding: 0 10%;
+  /* padding: 0 10%; */
 }
 
 .deal-info {
+  padding-right: 120px;
 }
 .deal-description {
   color: rgba(39, 39, 39, 0.6);
